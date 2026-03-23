@@ -1,0 +1,31 @@
+# Virtual envs
+venv/
+.venv/
+
+# API keys
+.env
+.env.local
+*.pem
+
+# Cloned repos (installed at runtime)
+DeepLenseSim/
+
+# Generated outputs
+outputs/
+comparison_outputs/
+model_compare_outputs/
+checkpoints/
+multiseed_results/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset (too large for git)
+dataset/
+*.zip
