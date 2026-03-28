@@ -67,8 +67,6 @@
 │   ├── requirements.txt                 # Dependencies
 │   ├── .env.example                     # API key template
 │   └── .gitignore
-│
-└── GSoC_2026_Proposal.pdf               # Project proposal
 ```
 
 ---
